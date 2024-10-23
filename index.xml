@@ -8,25 +8,9 @@
         <language>zh-cn</language>
         <copyright>h新的生活小札</copyright>
         <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.2xn.top/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>友链</title>
-        <link>https://blog.2xn.top/links/</link>
-        <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.2xn.top/links/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>https://blog.2xn.top/archives/</link>
-        <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.2xn.top/archives/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>关于</title>
         <link>https://blog.2xn.top/about/</link>
-        <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
         
         <guid>https://blog.2xn.top/about/</guid>
         <description>&lt;h3 id=&#34;关于博主&#34;&gt;关于博主
@@ -48,6 +32,22 @@
 &lt;p&gt;公众号：&lt;img class=&#34;&#34; src=&#34;http://upy.ahxin.cn/ty/1717660949066.jpg&#34; width=&#34;215&#34; height=&#34;79&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;本站已加入十年之约： &lt;a href=&#34;https://www.foreverblog.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img style=&#34;width: auto; height: 16px;&#34; src=&#34;https://img.foreverblog.cn/logo_en_default.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>友链</title>
+        <link>https://blog.2xn.top/links/</link>
+        <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.2xn.top/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://blog.2xn.top/archives/</link>
+        <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.2xn.top/archives/</guid>
+        <description></description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
