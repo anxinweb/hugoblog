@@ -8,6 +8,9 @@
     <loc>https://blog.2xn.top/page/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://blog.2xn.top/search/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.2xn.top/about/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -70,7 +73,5 @@
   </url><url>
     <loc>https://blog.2xn.top/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.2xn.top/search/</loc>
   </url>
 </urlset>
