@@ -6,31 +6,6 @@
         <description>Recent content in Tags on Ah新的生活小札</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>h新的生活小札</copyright>
-        <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.2xn.top/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Markdown</title>
-        <link>https://blog.2xn.top/tags/markdown/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.2xn.top/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>https://blog.2xn.top/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.2xn.top/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>https://blog.2xn.top/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.2xn.top/tags/text/</guid>
-        <description></description>
-        </item>
-        
+        <copyright>h新的生活小札</copyright><atom:link href="https://blog.2xn.top/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
