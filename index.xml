@@ -8,6 +8,14 @@
         <language>zh-cn</language>
         <copyright>h新的生活小札</copyright>
         <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.2xn.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>友链</title>
+        <link>https://blog.2xn.top/links/</link>
+        <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.2xn.top/links/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>归档</title>
         <link>https://blog.2xn.top/archives/</link>
         <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
@@ -381,14 +389,6 @@ $$</description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://blog.2xn.top/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>友链</title>
-        <link>https://blog.2xn.top/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.2xn.top/links/</guid>
         <description></description>
         </item>
         
